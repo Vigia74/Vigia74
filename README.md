@@ -1,6 +1,18 @@
-[![Rafael Lemos GitHub stats](https://github-readme-stats.vercel.app/api?username=Vigia74&theme=midnight-purple&show-icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple)
+# Estatísticas
 
+<a href="https://github.com/Vigia74">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vigia74&theme=midnight-purple&show-icons=true)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+<a href="https://github.com/Vigia74">
+  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vigia74&layout=compact&langs_count=8&theme=midnight-purple" />
+</a>
+
+<br/>
+
+## Projetos
+
+  ### C Programming
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vigia74&repo=https://github.com/Vigia74/Calculadora-de-Notas)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hi there 👋
 
