@@ -1,4 +1,4 @@
-[![Rafael Lemos GitHub stats](https://github-readme-stats.vercel.app/api?username=Vigia74)](https://github.com/anuraghazra/github-readme-stats)
+[![Rafael Lemos GitHub stats](https://github-readme-stats.vercel.app/api?username=Vigia74&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Hi there 👋
