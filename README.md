@@ -3,7 +3,8 @@
 <a href="https://github.com/Vigia74">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vigia74&theme=midnight-purple&show-icons=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
-<a href="https://github.com/Vigia74">
+
+  <a href="https://github.com/Vigia74">
   <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vigia74&layout=compact&langs_count=8&theme=midnight-purple" />
 </a>
 
@@ -11,9 +12,11 @@
 
 ## Projetos
 
-  ### C Programming
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vigia74&repo=https://github.com/Vigia74/Calculadora-de-Notas">
-
+### C Programming
+  
+<a href="https://github.com/Vigia74/Calculadora-de-Notas">
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vigia74&repo=Calculadora-de-Notas&theme=dark#gh-dark-mode-only"/>
+</a>
 
 ## Hi there 👋
 
