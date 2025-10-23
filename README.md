@@ -22,14 +22,19 @@
 ## Tecnologias
 
 ### OS
+
 <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)"/>
 
 ### Languages
 
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)
+
+### 📚 | Linguagens Que estou Aprendendo
+
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)
+
 
 <!--
 **Vigia74/Vigia74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
